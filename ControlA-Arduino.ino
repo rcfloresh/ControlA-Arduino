@@ -8,7 +8,7 @@
 #include <ArduinoJson.h>
 
 // Definir el servidor donde se encuentra la API
-const char* serverName = "http://192.168.68.107:8000/api/check_student/";
+const char* serverName = "http://192.168.68.104:8000/api/check_student/";
 
 // Definir API Key
 const char* apiKey = "662f1d11-6daa-42bd-9e70-c4114bacf43e";
